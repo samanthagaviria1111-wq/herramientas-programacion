@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejercicios · Herramientas de Programación I</title>
+</head>
+<body>
+  <h1>Ejercicios de samantha y tomas</h1>
+  <p>Herramientas de Programación I · Grado 10°</p>
+
+  <hr>
+
+  <h2>Mis clases</h2>
+  <ul>
+    <li><a href="index.html">Clase 1 — Sobre mí (primera página HTML)</a></li>
+    <!-- En la próxima clase agrego aquí una línea nueva -->
+  </ul>
+
+</body>
+</html>
