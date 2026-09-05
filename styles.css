@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Lato:wght@400;700&display=swap');
+
+body {
+	padding: 25px;
+	background-color: #F8F1E7;
+	color: #4A382C;
+	font-family: 'Lato', sans-serif;
+}
+
+#titulo-principal {
+	color: #4A382C;
+	font-family: 'Fredoka', sans-serif;
+	font-size: 2.2rem;
+}
+
+h2 {
+	color: #806653;
+	font-family: 'Fredoka', sans-serif;
+}
+
+p {
+	color: #806653;
+}
+
+hr {
+	border: 0;
+	border-top: 2px solid #DCC8B8;
+}
+
+.lista-clases {
+	max-width: 720px;
+	padding: 0;
+	list-style: none;
+}
+
+li {
+	margin: 10px 0;
+	padding: 12px;
+	background-color: #FFFDF9;
+	border: 2px solid #C9AE91;
+	border-radius: 15px;
+}
+
+a {
+	color: #4A382C;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #B9785D;
+}

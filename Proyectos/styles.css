@@ -1,0 +1,14 @@
+body{background-color:#9B8068;
+font-family: lato, sans-serif;
+  padding: 20px;
+}
+.app-titulo{
+    color: #4A382C;
+}
+.tarea{background: #DCC8B8;
+  border: 2px solid black;
+  border-radius: 20px;
+  padding: 10px 14px;
+  margin-bottom: 10px;}
+  
+  .letra{font-family: Lato, sans-serif; }
