@@ -1,22 +1,32 @@
 body {
-  background: #06101a;
+  background-color: #F8F1E7;
   color: #e6f1ff;
-  font-family: Arial, sans-serif;
+  font-family: 'Lato', sans-serif;;
   padding: 20px;
 }
 
 h1 {
-  color: #22d3ee;
+  color: #4A382C;
+  font-family: 'Lato', sans-serif;
 }
 
 h2 {
-  color: #a855f7;
+  color: #806653;
+  font-family: 'Fredoka', sans-serif;
 }
 
 .tarea {
-  background: #0c1626;
-  border: 1px solid #1c3252;
+  background: #FFFDF9;
+  border: 3px solid #C9AE91;
   border-radius: 8px;
   padding: 10px 14px;
   margin-bottom: 10px;
+}
+p{
+  color: black;
+  font-family: 'Fredoka', sans-serif;
+}
+h3{
+  color: #806653;
+  font-family: 'Fredoka', sans-serif; 
 }

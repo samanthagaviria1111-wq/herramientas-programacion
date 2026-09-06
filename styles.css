@@ -10,7 +10,6 @@ body {
 #titulo-principal {
 	color: #4A382C;
 	font-family: 'Fredoka', sans-serif;
-	font-size: 2.2rem;
 }
 
 h2 {
@@ -24,13 +23,13 @@ p {
 
 hr {
 	border: 0;
-	border-top: 2px solid #DCC8B8;
+	border: 2px solid #DCC8B8;
 }
 
 .lista-clases {
 	max-width: 720px;
 	padding: 0;
-	list-style: none;
+	
 }
 
 li {
